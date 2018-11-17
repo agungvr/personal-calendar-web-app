@@ -21,7 +21,6 @@ export default () => (
   <Router>
     <Switch>
       <AppLayout exact path="/" component={Home}/>
-      <Redirect to="/"/>
     </Switch>
   </Router>
 );
