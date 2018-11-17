@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/personal-calendar-web-app/precache-manifest.f6787ba89d5da8110ce4c6bfe702701d.js"
+  "/personal-calendar-web-app/precache-manifest.4b0a3deef4ba95a3ae70c2fbc36f436d.js"
 );
 
 workbox.clientsClaim();
