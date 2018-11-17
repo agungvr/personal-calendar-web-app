@@ -3,9 +3,25 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "date-fns": "^1.29.0",
+    "moment": "^2.22.2",
+    "rc-time-picker": "^3.4.0",
     "react": "^16.6.3",
+    "react-color": "^2.14.1",
     "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "react-redux": "^5.1.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "recompose": "^0.30.0",
+    "redux": "^4.0.1",
+    "redux-actions": "^2.6.4",
+    "redux-devtools-extension": "^2.13.5",
+    "redux-persist": "^5.10.0",
+    "redux-saga": "^0.16.2",
+    "seamless-immutable": "^7.1.4",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.83.0",
+    "styled-components": "^4.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
